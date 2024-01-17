@@ -1,0 +1,31 @@
+C:\Users\Mateo\Desktop\zadaca03_PI\Software\CleanOps\CleanOps\bin\Debug\CleanOps.exe.config
+C:\Users\Mateo\Desktop\zadaca03_PI\Software\CleanOps\CleanOps\bin\Debug\CleanOps.exe
+C:\Users\Mateo\Desktop\zadaca03_PI\Software\CleanOps\CleanOps\bin\Debug\CleanOps.pdb
+C:\Users\Mateo\Desktop\zadaca03_PI\Software\CleanOps\CleanOps\bin\Debug\DBLayer.dll
+C:\Users\Mateo\Desktop\zadaca03_PI\Software\CleanOps\CleanOps\obj\Debug\CleanOps.csproj.AssemblyReference.cache
+C:\Users\Mateo\Desktop\zadaca03_PI\Software\CleanOps\CleanOps\obj\Debug\CleanOps.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mateo\Desktop\zadaca03_PI\Software\CleanOps\CleanOps\obj\Debug\CleanOps.Properties.Resources.resources
+C:\Users\Mateo\Desktop\zadaca03_PI\Software\CleanOps\CleanOps\obj\Debug\CleanOps.csproj.GenerateResource.cache
+C:\Users\Mateo\Desktop\zadaca03_PI\Software\CleanOps\CleanOps\obj\Debug\CleanOps.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\Desktop\zadaca03_PI\Software\CleanOps\CleanOps\obj\Debug\CleanOps.csproj.CopyComplete
+C:\Users\Mateo\Desktop\zadaca03_PI\Software\CleanOps\CleanOps\obj\Debug\CleanOps.exe
+C:\Users\Mateo\Desktop\zadaca03_PI\Software\CleanOps\CleanOps\obj\Debug\CleanOps.pdb
+C:\Users\Mateo\Desktop\zadaca03_PI\Software\CleanOps\CleanOps\obj\Debug\CleanOps.frmDodajZaposlenika.resources
+C:\Users\Mateo\Desktop\zadaca03_PI\Software\CleanOps\CleanOps\obj\Debug\CleanOps.frmListaZaposlenika.resources
+C:\Users\Mateo\Desktop\zadaca03_PI\Software\CleanOps\CleanOps\obj\Debug\CleanOps.frmUkloniZaposlenika.resources
+C:\Users\Mateo\Desktop\zadaca03_PI\Software\CleanOps\CleanOps\obj\Debug\CleanOps.frmAžurirajZaposlenika.resources
+C:\Users\Mateo\Desktop\FOI\4. semestar\Moje\PI\PI 3. zadaća\zadaca03_PI\Software\CleanOps\CleanOps\bin\Debug\CleanOps.exe.config
+C:\Users\Mateo\Desktop\FOI\4. semestar\Moje\PI\PI 3. zadaća\zadaca03_PI\Software\CleanOps\CleanOps\bin\Debug\CleanOps.exe
+C:\Users\Mateo\Desktop\FOI\4. semestar\Moje\PI\PI 3. zadaća\zadaca03_PI\Software\CleanOps\CleanOps\bin\Debug\CleanOps.pdb
+C:\Users\Mateo\Desktop\FOI\4. semestar\Moje\PI\PI 3. zadaća\zadaca03_PI\Software\CleanOps\CleanOps\bin\Debug\DBLayer.dll
+C:\Users\Mateo\Desktop\FOI\4. semestar\Moje\PI\PI 3. zadaća\zadaca03_PI\Software\CleanOps\CleanOps\obj\Debug\CleanOps.csproj.AssemblyReference.cache
+C:\Users\Mateo\Desktop\FOI\4. semestar\Moje\PI\PI 3. zadaća\zadaca03_PI\Software\CleanOps\CleanOps\obj\Debug\CleanOps.frmAžurirajZaposlenika.resources
+C:\Users\Mateo\Desktop\FOI\4. semestar\Moje\PI\PI 3. zadaća\zadaca03_PI\Software\CleanOps\CleanOps\obj\Debug\CleanOps.frmDodajZaposlenika.resources
+C:\Users\Mateo\Desktop\FOI\4. semestar\Moje\PI\PI 3. zadaća\zadaca03_PI\Software\CleanOps\CleanOps\obj\Debug\CleanOps.frmListaZaposlenika.resources
+C:\Users\Mateo\Desktop\FOI\4. semestar\Moje\PI\PI 3. zadaća\zadaca03_PI\Software\CleanOps\CleanOps\obj\Debug\CleanOps.frmUkloniZaposlenika.resources
+C:\Users\Mateo\Desktop\FOI\4. semestar\Moje\PI\PI 3. zadaća\zadaca03_PI\Software\CleanOps\CleanOps\obj\Debug\CleanOps.Properties.Resources.resources
+C:\Users\Mateo\Desktop\FOI\4. semestar\Moje\PI\PI 3. zadaća\zadaca03_PI\Software\CleanOps\CleanOps\obj\Debug\CleanOps.csproj.GenerateResource.cache
+C:\Users\Mateo\Desktop\FOI\4. semestar\Moje\PI\PI 3. zadaća\zadaca03_PI\Software\CleanOps\CleanOps\obj\Debug\CleanOps.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\Desktop\FOI\4. semestar\Moje\PI\PI 3. zadaća\zadaca03_PI\Software\CleanOps\CleanOps\obj\Debug\CleanOps.csproj.CopyComplete
+C:\Users\Mateo\Desktop\FOI\4. semestar\Moje\PI\PI 3. zadaća\zadaca03_PI\Software\CleanOps\CleanOps\obj\Debug\CleanOps.exe
+C:\Users\Mateo\Desktop\FOI\4. semestar\Moje\PI\PI 3. zadaća\zadaca03_PI\Software\CleanOps\CleanOps\obj\Debug\CleanOps.pdb
